@@ -1,3 +1,10 @@
 pizzeria\ejemplo\Pizzeria.class
 libreria\iei\CalcularPrecio.class
+libreria\iei\SalvarEnBD.class
+libreria\bd\Conexion.class
 libreria\iei\EnviarTweet.class
+libreria\iei\ValidarPedido.class
+libreria\modelo\Pedido.class
+libreria\bd\ServiciosPizzas.class
+libreria\iei\AddPedido.class
+libreria\modelo\Articulo.class

@@ -5,5 +5,5 @@ import org.camunda.bpm.application.impl.ServletProcessApplication;
 
 @ProcessApplication("Pizzeria Funcionando")
 public class Pizzeria extends ServletProcessApplication{
-
+	//empty implementation
 }
